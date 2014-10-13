@@ -1,5 +1,9 @@
 @media screen {
+	.uir-list-header-td {
+		padding: 1px 5px;
+	}
 	.uir-list-row-tr > td {
 		font-size: 12px;
+		padding: 1px 5px !important;
 	}
 }
