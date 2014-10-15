@@ -6,6 +6,7 @@
 // @homepage     https://github.com/Zxurian/netsuite-style
 // @match        https://*.netsuite.com/*
 // @grant        GM_addStyle
+// @updateURL    https://raw.githubusercontent.com/Zxurian/netsuite-style/master/netsuite-style.js
 // ==/UserScript==
 
 GM_addStyle('
