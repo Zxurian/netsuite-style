@@ -31,8 +31,8 @@ textarea:disabled {
 	color: rgb(50, 50, 50) !important;
 }
 
-.uir-pagination-label ul {
+.uir-pagination-select ul {
 	width: auto !important;
-	overflow-x: auto;
+	overflow-x: auto !important;
 }
 ');
