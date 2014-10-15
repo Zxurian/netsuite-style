@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Netsuite 2014.2 Style fixer
-// @version      0.1.2
+// @version      0.1.3
 // @description  Userscript for fixing Netsuite 2014.2 style fixing.
 // @author       Rick Goodrow
 // @homepage     https://github.com/Zxurian/netsuite-style
