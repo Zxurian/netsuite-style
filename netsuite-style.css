@@ -1,0 +1,25 @@
+@media screen {
+	.uir-list-header-td {
+		padding: 1px 5px !important;
+	}
+	.uir-list-row-tr > td {
+		font-size: 12px;
+		padding: 1px 5px !important;
+	}
+}
+
+.x-window-mc {
+	padding: 10px;
+}
+.x-window-mc iframe {
+	height: auto !important;
+}
+
+textarea:disabled {
+	color: rgb(50, 50, 50) !important;
+}
+
+.uir-pagination-select ul {
+	width: auto !important;
+	overflow-x: auto !important;
+}
