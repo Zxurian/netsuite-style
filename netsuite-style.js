@@ -3,6 +3,7 @@
 // @version      0.1.2
 // @description  Userscript for fixing Netsuite 2014.2 style fixing.
 // @author       Rick Goodrow
+// @homepage     https://github.com/Zxurian/netsuite-style
 // @match        https://*.netsuite.com/*
 // @grant        GM_addStyle
 // ==/UserScript==
