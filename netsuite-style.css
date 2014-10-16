@@ -23,3 +23,11 @@ textarea:disabled {
 	width: auto !important;
 	overflow-x: auto !important;
 }
+
+uir-page-title-firstline, .uir-page-title-secondline {
+	display: inline-block !important;
+}
+
+.table_fields > tbody > tr:first-child > td > div.uir-field-wrapper:first-child {
+	margin-top: 0 !important;
+}
