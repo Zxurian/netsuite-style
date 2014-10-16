@@ -24,7 +24,7 @@ textarea:disabled {
 	overflow-x: auto !important;
 }
 
-uir-page-title-firstline, .uir-page-title-secondline {
+.uir-page-title-firstline, .uir-page-title-secondline {
 	display: inline-block !important;
 }
 
