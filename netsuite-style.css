@@ -24,6 +24,10 @@ textarea:disabled {
 	overflow-x: auto !important;
 }
 
+.uir-field-group-separator {
+	height: 2px !important;
+}
+
 .uir-page-title-firstline, .uir-page-title-secondline {
 	display: inline-block !important;
 }
