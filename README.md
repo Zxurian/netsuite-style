@@ -5,8 +5,13 @@ Use Greasemonkey (Firefox) or Tampermonkey (Chrome)
 
 Collection of style fixes to make Netsuite 2014.2 more user friendly.
 
+_Disclaimer: these changes work for our forms & views. Your mileage may vary._
+
 Version History
 ===============
+v0.1.9
+* removed spacer between field groups
+
 v0.1.8
 * marged page-title-secondline with page-title-firstline
 * got rid of initial margin of table data on record view
