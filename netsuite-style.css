@@ -72,3 +72,7 @@ textarea:disabled {
 #mainscript_fs textarea {
 	width: 100% !important;
 }
+
+#debuggerstatusbar {
+	width: 100% !important;
+}
