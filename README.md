@@ -7,6 +7,8 @@ Collection of style fixes to make Netsuite 2014.2 more user friendly.
 
 _Disclaimer: these changes work for our forms & views. Your mileage may vary._
 
+Use the issues to suggest new fixes and I'll do my best to incorporate them
+
 Version History
 ===============
 v0.1.10
