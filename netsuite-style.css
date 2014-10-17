@@ -35,3 +35,13 @@ textarea:disabled {
 .table_fields > tbody > tr:first-child > td > div.uir-field-wrapper:first-child {
 	margin-top: 0 !important;
 }
+
+.uir_filters_body {
+	font-size: 80%;
+}
+
+.uir_filters_body .uir-field-wrapper .uir-field .uir-select-input-container input {
+	font-size: inherit;
+	height: 20px;
+}
+
