@@ -64,3 +64,11 @@ textarea:disabled {
 	padding-top: 0;
 	padding-bottom: 0;
 }
+
+#mainscript_fs {
+	width: 100%;
+}
+
+#mainscript_fs textarea {
+	width: 100% !important;
+}
