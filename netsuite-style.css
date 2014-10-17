@@ -45,3 +45,7 @@ textarea:disabled {
 	height: 20px;
 }
 
+.uir_filters_body .uir-field-wrapper .uir-field .uir-select-input-container .ddarrowSpan {
+	height: 20px !important;
+	width: 20px !important;
+}
