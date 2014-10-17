@@ -40,6 +40,10 @@ textarea:disabled {
 	font-size: 80%;
 }
 
+.uir_filters_body .uir-field-wrapper {
+	margin-right: 10px;
+}
+
 .uir_filters_body .uir-field-wrapper .uir-field .uir-select-input-container input {
 	font-size: inherit;
 	height: 20px;
@@ -48,4 +52,10 @@ textarea:disabled {
 .uir_filters_body .uir-field-wrapper .uir-field .uir-select-input-container .ddarrowSpan {
 	height: 20px !important;
 	width: 20px !important;
+}
+
+.dropdownDiv .dropdownNotSelected, .dropdownDiv .dropdownSelected {
+	font-size: 12px;
+	padding-top: 0;
+	padding-bottom: 0;
 }
