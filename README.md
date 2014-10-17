@@ -9,6 +9,11 @@ _Disclaimer: these changes work for our forms & views. Your mileage may vary._
 
 Version History
 ===============
+v0.1.10
+* Tightened up filter box margins and padding
+* Reduzed size of filter box text
+* Reduced size of dropdown box test
+
 v0.1.9
 * removed spacer between field groups
 
