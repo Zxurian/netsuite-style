@@ -65,14 +65,12 @@ textarea:disabled {
 	padding-bottom: 0;
 }
 
-#mainscript_fs {
-	width: 100%;
-}
-
-#mainscript_fs textarea {
-	width: 100% !important;
-}
-
-#debuggerstatusbar {
+#mainscript_fs,
+#mainscript_fs textarea,
+#debuggerstatusbar,
+#consolewindow, #localswindow,
+#watcheswindow,
+#historywindow,
+#breakpointswindow {
 	width: 100% !important;
 }
