@@ -36,8 +36,13 @@ textarea:disabled {
 	margin-top: 0 !important;
 }
 
+.uir_filters {
+	margin-bottom: 0 !important;
+}
+
 .uir_filters_body {
 	font-size: 80%;
+	padding: 0 5px;
 }
 
 .uir_filters_body .uir-field-wrapper {
