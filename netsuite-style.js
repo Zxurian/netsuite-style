@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Netsuite 2014.2 Style fixer
 // @namespace    https://netsuite.com
-// @version      0.1.10
-// @resource     netsuiteCSS https://raw.githubusercontent.com/Zxurian/netsuite-style/master/netsuite-style.css?0.1.10
+// @version      0.1.10.1
+// @resource     netsuiteCSS https://raw.githubusercontent.com/Zxurian/netsuite-style/master/netsuite-style.css?0.1.10.1
 // @description  Userscript for fixing Netsuite 2014.2 style fixing.
 // @author       Rick Goodrow
 // @homepage     https://github.com/Zxurian/netsuite-style
