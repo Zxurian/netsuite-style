@@ -77,7 +77,7 @@ textarea:disabled {
 
 /* Tightening up Dropdown Menus */
 .ns-menu:not(.uir-menu-main) .ns-menuitem > a,
-.ns-menu:not(.uir-menu-main) .ns-scroll-button a {
+.ns-menu:not(.uir-menu-main) .ns-scroll-button > a {
 	height: 27px !important;
 	line-height: 27px !important;
 }
