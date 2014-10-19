@@ -74,3 +74,9 @@ textarea:disabled {
 #breakpointswindow {
 	width: 100% !important;
 }
+
+/* Tightening up Dropdown Menus */
+.ns-menu:not(.uir-menu-main) .ns-menuitem > a {
+	height: 27px;
+	line-height: 27px;
+}
