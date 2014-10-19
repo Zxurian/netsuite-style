@@ -80,3 +80,7 @@ textarea:disabled {
 	height: 27px;
 	line-height: 27px;
 }
+
+.ns-menu:not(.uir-menu-main) .ns-submenu-triangle {
+	top: 5px;
+}
