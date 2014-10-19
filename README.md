@@ -11,6 +11,12 @@ Use the issues to suggest new fixes and I'll do my best to incorporate them
 
 Version History
 ===============
+v0.1.12
+* Tightened up drop down menus
+
+v0.1.11
+* Widened script debugger windows out to full width of browser
+
 v0.1.10
 * Tightened up filter box margins and padding
 * Reduzed size of filter box text
