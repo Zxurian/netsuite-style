@@ -85,3 +85,6 @@ textarea:disabled {
 .ns-menu:not(.uir-menu-main) .ns-submenu-triangle {
 	top: 5px;
 }
+.ns-menu:not(.uir-menu-main) .record-icon {
+	margin-top: -4px;
+}
