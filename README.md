@@ -1,7 +1,7 @@
 netsuite-style
 ==============
 
-Use Greasemonkey (Firefox) or Tampermonkey (Chrome)
+Use Greasemonkey (Firefox) or Tampermonkey (Chrome). Copy the netsuite-style.js into the scirpt.
 
 Collection of style fixes to make Netsuite 2014.2 more user friendly.
 
