@@ -11,6 +11,13 @@ Use the issues to suggest new fixes and I'll do my best to incorporate them
 
 Version History
 ===============
+v0.2.1
+* Vertically aligned first/second information lines
+* Widened nltabcontent tables out to same width as parent bar
+
+v0.2
+* Changed to load at document-start instead of document-ready. Removes post-render hiccups
+
 v0.1.12
 * Tightened up drop down menus
 
