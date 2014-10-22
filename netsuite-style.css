@@ -100,7 +100,7 @@ textarea:disabled {
 }
 
 .bdtabblock > .nltabcontent {
-	padding: 0;
+	padding: 0 !important;
 	margin-left: -1px;
 	margin-right: -1px;
 }
