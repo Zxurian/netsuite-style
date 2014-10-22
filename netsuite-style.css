@@ -98,3 +98,9 @@ textarea:disabled {
 .ns-menu:not(.uir-menu-main) .record-icon {
 	margin-top: -4px;
 }
+
+.bdtabblock > .nltabcontent {
+	padding: 0;
+	margin-left: -1px;
+	margin-right: -1px;
+}
