@@ -30,6 +30,16 @@ textarea:disabled {
 
 .uir-page-title-firstline, .uir-page-title-secondline {
 	display: inline-block !important;
+	vertical-align: top;
+}
+
+.uir-page-title-firstline .uir-additional-links {
+	top: 3px;
+}
+
+.uir-page-title-secondline .uir-record-status {
+	padding: 0 10px;
+	top: -3px;
 }
 
 .table_fields > tbody > tr:first-child > td > div.uir-field-wrapper:first-child {
