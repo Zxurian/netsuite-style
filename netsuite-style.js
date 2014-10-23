@@ -3,10 +3,10 @@
 // @author       Rick Goodrow
 // @homepage     https://github.com/Zxurian/netsuite-style
 // @description  Userscript for fixing Netsuite 2014.2 style fixing.
-// @version      0.2.1.1
+// @version      0.2.2
 // @namespace    https://netsuite.com
 // @run-at       document-start
-// @resource     netsuiteCSS https://raw.githubusercontent.com/Zxurian/netsuite-style/master/netsuite-style.css?0.2.1.1
+// @resource     netsuiteCSS https://raw.githubusercontent.com/Zxurian/netsuite-style/master/netsuite-style.css?0.2.2
 // @match        https://*.netsuite.com/*
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
@@ -15,3 +15,7 @@
 // ==/UserScript==
 
 GM_addStyle(GM_getResourceText('netsuiteCSS'));
+
+jQuery('#addressbookaddress_helper_popup').click(function() {
+  console.log('foo');
+});
