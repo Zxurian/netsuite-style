@@ -8,13 +8,6 @@
 	}
 }
 
-.x-window-mc {
-	padding: 10px;
-}
-.x-window-mc iframe {
-	height: auto !important;
-}
-
 textarea:disabled {
 	color: rgb(50, 50, 50) !important;
 }
