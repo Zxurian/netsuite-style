@@ -3,10 +3,10 @@
 // @author       Rick Goodrow
 // @homepage     https://github.com/Zxurian/netsuite-style
 // @description  Userscript for fixing Netsuite 2014.2 style fixing.
-// @version      0.2.2
+// @version      0.2.3
 // @namespace    https://netsuite.com
 // @run-at       document-start
-// @resource     netsuiteCSS https://raw.githubusercontent.com/Zxurian/netsuite-style/master/netsuite-style.css?0.2.2
+// @resource     netsuiteCSS https://raw.githubusercontent.com/Zxurian/netsuite-style/master/netsuite-style.css?0.2.3
 // @match        https://*.netsuite.com/*
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
