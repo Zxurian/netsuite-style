@@ -1,4 +1,4 @@
-@media screen {
+/*@media screen {
 	.uir-list-header-td {
 		padding: 1px 5px !important;
 	}
@@ -77,7 +77,7 @@ textarea:disabled {
 #breakpointswindow {
 	width: 100% !important;
 }
-
+*/
 /* Tightening up Dropdown Menus */
 .ns-menu:not(.uir-menu-main) .ns-menuitem > a,
 .ns-menu:not(.uir-menu-main) .ns-scroll-button-li > a {
